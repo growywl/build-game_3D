@@ -1,5 +1,6 @@
 ## Building 3D Object — Kinetic Sculpture (OpenGL)
 MINI SOLAR ORBIT
+
 This project focuses on
 - Building 3D objects using vertex generation and 3D transformation matrices (model/view/projection)
 - Real-time animation (kinetic sculpture style) using time-based transforms
